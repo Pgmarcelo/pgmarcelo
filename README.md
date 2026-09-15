@@ -2,7 +2,7 @@
 
 I work at the intersection of enterprise GenAI, AI/ML, analytics, cloud commercialization and go-to-market leadership.
 
-I am a Senior AI/ML & Analytics Specialist Seller at AWS Canada. Over more than 20 years in technology, I have helped organizations connect technical capabilities with business outcomes, adoption and scale.
+I am a Senior AI/ML Specialist Seller at AWS Canada. Over more than 20 years in technology, I have helped organizations connect technical capabilities with business outcomes, adoption and scale.
 
 My current interests include:
 
